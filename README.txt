@@ -10,7 +10,7 @@ Run program at command prompt level.
 Max ive used on an i7 8th gen was 24, which ran fine. However i must state that i am not responsible for any damages that can occur, use at own risk.
 
 To Use:
-```
+
 PrimeThreads.exe [number_of_threads] //the default is 10,000,000 prime numbers which is a great start on stressing multi core processors. 
 PrimeThreads.exe [number_of_threads] [total_numbers_to_search] //add custom total numbers to search in
-```
+
