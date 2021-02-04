@@ -14,5 +14,12 @@ Max ive used on an i7 8th gen was 24, which ran fine. However i must state that 
 PrimeThreads.exe [number_of_threads] //the default is 10,000,000 prime numbers which is a great start on stressing multi core processors. 
 PrimeThreads.exe [number_of_threads] [total_numbers_to_search] //add custom total numbers to search in
 ```
+##Example:
+```
+primeThreads.exe 12 10000000
+```
 
+```
+PrimeThreads.exe 12
+```
 ![PrimeThreads_cmd.jpg](https://github.com/rav-en/PrimeThreads/blob/master/PrimeThreads_cmd.jpg)
