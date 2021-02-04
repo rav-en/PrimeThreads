@@ -15,3 +15,4 @@ PrimeThreads.exe [number_of_threads] //the default is 10,000,000 prime numbers w
 PrimeThreads.exe [number_of_threads] [total_numbers_to_search] //add custom total numbers to search in
 ```
 
+![PrimeThreads_cmd.jpg](https://github.com/rav-en/PrimeThreads/blob/master/PrimeThreads_cmd.jpg)
